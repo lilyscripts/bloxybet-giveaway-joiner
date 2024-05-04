@@ -1,0 +1,5 @@
+{
+	"verify_tokens": true,
+	"track_cooldown": 3,
+	"tokens_path": "./tokens.txt"
+}
